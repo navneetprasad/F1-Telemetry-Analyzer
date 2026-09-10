@@ -6,7 +6,7 @@ A full-stack Formula 1 telemetry analytics suite built with Python, FastF1, Matp
 
 ## 📌 Dashboard Preview
 
-![F1 Telemetry & Mini-Sector Analysis](assets/f1_combined_analysis.png)
+![F1 Telemetry & Mini-Sector Analysis](./assets/f1_combined_analysis.png)
 
 *Figure: Teammate telemetry and spatial dominance analysis between Charles Leclerc (LEC) and Lewis Hamilton (HAM) at the 2025 Italian Grand Prix (Monza) Qualifying session.*
 
