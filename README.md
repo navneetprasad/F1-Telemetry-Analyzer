@@ -6,7 +6,8 @@ An interactive Formula 1 data analytics dashboard built with Python, FastF1, and
 
 ## 📌 Project Preview
 
-![F1 Telemetry & Mini-Sector Analysis](assets/monza_2025_analysis.jpg)
+                      <img width="4413" height="2538" alt="image" src="https://github.com/user-attachments/assets/5b667c9a-c8c9-4ae0-b1cc-87766a7e73b9" />
+
 
 *Figure: Teammate telemetry comparison between Charles Leclerc (LEC) and Lewis Hamilton (HAM) during the 2025 Italian Grand Prix (Monza) Qualifying session.*
 
